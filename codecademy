@@ -1,0 +1,15 @@
+print "hello world"
+print("hello world")
+
+todays_date = "July 23"
+
+product = 3 * 2
+remainder = 1398 % 11
+
+# City Population:
+
+cucumbers = 3
+price_per_cucumber = 3.25
+
+total_cost = cucumbers * price_per_cucumber
+print total_cost
